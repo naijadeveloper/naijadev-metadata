@@ -1,41 +1,41 @@
 {
   "big3": {
     "title": "HTML, CSS AND JAVASCRIPT",
-    "description": "Explore my collection of web design projects crafted with HTML, CSS and JAVASCRIPT, showcasing my passion for creative, innovative and responsive web development",
+    "description": "Explore my collection of web design projects crafted with HTML, CSS and JAVASCRIPT, showcasing my passion for creative, innovative and responsive web development"
   },
 
   "css-art": {
     "title": "CSS ART",
-    "description": "Through the magic of the Cascading Style Sheet(CSS), I testify to the artistic possibilities within web design. Using CSS to code and position the HTML elements' shapes, colours and lines to create a digital image. CSS art lies at the intersection of vector illustration and front-end development.",
+    "description": "Through the magic of the Cascading Style Sheet(CSS), I testify to the artistic possibilities within web design. Using CSS to code and position the HTML elements' shapes, colours and lines to create a digital image. CSS art lies at the intersection of vector illustration and front-end development."
   },
 
   "javascript-games": {
     "title": "JAVASCRIPT/TYPESCRIPT GAMES AS PROGRESSIVE WEB APPS",
-    "description": "In these projects, I explore the versatility of Javascript. I create interactive, entertaining games that run smooth on your web browser, and extend them as progressive web applications, possibly blurring the lines between web and native gaming experience.",
+    "description": "In these projects, I explore the versatility of Javascript. I create interactive, entertaining games that run smooth on your web browser, and extend them as progressive web applications, possibly blurring the lines between web and native gaming experience."
   },
-  
+
   "react": {
     "title": "REACT JS/TS",
-    "description": "Journey through my React Js/Ts Projects, where interactive user interfaces and seamless experiences come to life, powered by the versatility of React components",
+    "description": "Journey through my React Js/Ts Projects, where interactive user interfaces and seamless experiences come to life, powered by the versatility of React components"
   },
-  
+
   "next": {
     "title": "NEXT JS/TS",
-    "description": "Discover the power of Next Js/Ts in my projects, a framework that extends the possiblities of React, where routing, server-side rendering and more, effortlessly converge to create robust, scalable and high-performance web applications",
+    "description": "Discover the power of Next Js/Ts in my projects, a framework that extends the possiblities of React, where routing, server-side rendering and more, effortlessly converge to create robust, scalable and high-performance web applications"
   },
 
   "chrome-extensions": {
     "title": "CHROME EXTENSIONS",
-    "description": "Chrome extensions are small software programs that customize the browsing experience. They are built using web technologies. My chrome extensions integrate into your browser, offering tailored functionalities and features that cater to your needs. My joy is that these extensions improve your browsing experience, even if it's just a little bit.",
+    "description": "Chrome extensions are small software programs that customize the browsing experience. They are built using web technologies. My chrome extensions integrate into your browser, offering tailored functionalities and features that cater to your needs. My joy is that these extensions improve your browsing experience, even if it's just a little bit."
   },
 
   "electron": {
     "title": "ELECTRON JS/TS",
-    "description": "Electron is a powerful tool used to create desktop applications with web technologies. In my projects, I explore the fusion of web technologies and native capabilities to craft applications that seamlessly run across platforms, delivering a unified and immersive user experience on the desktop",
+    "description": "Electron is a powerful tool used to create desktop applications with web technologies. In my projects, I explore the fusion of web technologies and native capabilities to craft applications that seamlessly run across platforms, delivering a unified and immersive user experience on the desktop"
   },
-  
+
   "flutter": {
     "title": "FLUTTER(DART)",
-    "description": "The existing of Flutter is a blessing to the world of mobile app development. It is used to create cross-platform mobile applications. Using Flutter widgets, one can create beautiful, expressive user interfaces that translate well for all mobile devices. Flutter can be used to create web applications and cross-platform desktop applications as well, but in my projects, I focus only on mobile app development.",
-  },
+    "description": "The existing of Flutter is a blessing to the world of mobile app development. It is used to create cross-platform mobile applications. Using Flutter widgets, one can create beautiful, expressive user interfaces that translate well for all mobile devices. Flutter can be used to create web applications and cross-platform desktop applications as well, but in my projects, I focus only on mobile app development."
+  }
 }
