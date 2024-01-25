@@ -1,6 +1,6 @@
 {
-  "big3": {
-    "title": "HTML, CSS AND JAVASCRIPT",
+  "big-3": {
+    "title": "THE BIG 3",
     "description": "Explore my collection of web design projects crafted with HTML, CSS and JAVASCRIPT, showcasing my passion for creative, innovative and responsive web development"
   },
 
@@ -10,13 +10,13 @@
   },
 
   "javascript-games": {
-    "title": "JAVASCRIPT/TYPESCRIPT GAMES AS PROGRESSIVE WEB APPS",
+    "title": "JAVASCRIPT GAMES AS PROGRESSIVE WEB APPS",
     "description": "In these projects, I explore the versatility of Javascript. I create interactive, entertaining games that run smooth on your web browser, and extend them as progressive web applications, possibly blurring the lines between web and native gaming experience."
   },
 
   "react": {
     "title": "REACT JS/TS",
-    "description": "Journey through my React Js/Ts Projects, where interactive user interfaces and seamless experiences come to life, powered by the versatility of React components"
+    "description": "Journey through my React Js/Ts projects, where interactive user interfaces and seamless experiences come to life, powered by the versatility of React components"
   },
 
   "next": {
