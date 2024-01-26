@@ -36,6 +36,6 @@
 
   "flutter": {
     "title": "FLUTTER(DART)",
-    "description": "The existing of Flutter is a blessing to the world of mobile app development. It is used to create cross-platform mobile applications. Using Flutter widgets, one can create beautiful, expressive user interfaces that translate well for all mobile devices. Flutter can also be used to create web applications and cross-platform desktop applications as well, but in my projects, I focus only on mobile app development."
+    "description": "The existing of Flutter is a blessing to the world of mobile app development. It is used to create cross-platform mobile applications and can also be used for web applications and cross-platform desktop applications development but, in my projects, I focus only on mobile applications development."
   }
 }
