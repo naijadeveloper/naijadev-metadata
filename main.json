@@ -11,7 +11,7 @@
 
   "javascript-games": {
     "title": "JAVASCRIPT GAMES AS PROGRESSIVE WEB APPS",
-    "description": "In these projects, I explore the versatility of Javascript. I create interactive, entertaining games that run smooth on your web browser, and extend them as progressive web applications."
+    "description": "In these projects, I explore the versatility of Javascript. I create interactive, entertaining games that run smooth on your web browser, and extend them as progressive web apps."
   },
 
   "react": {
@@ -21,7 +21,7 @@
 
   "next": {
     "title": "NEXT JS/TS",
-    "description": "Discover the power of Next Js/Ts in my projects, a framework that extends the possiblities of React, where routing, server-side rendering and more, effortlessly converge to create robust, scalable and high-performance web applications"
+    "description": "Discover the power of Next Js/Ts in my projects, a framework that extends the possiblities of React, where routing, server-side rendering and more, effortlessly converge to create robust, scalable and high-performance web apps"
   },
 
   "chrome-extensions": {
@@ -31,11 +31,11 @@
 
   "electron": {
     "title": "ELECTRON JS/TS",
-    "description": "Electron is a powerful tool used to create desktop applications with web technologies. In my projects, I explore the fusion of web technologies and native capabilities to craft applications that seamlessly run across platforms, delivering a unified and immersive user experience on the desktop"
+    "description": "Electron is a powerful tool used to create desktop apps with web technologies. In my projects, I explore the fusion of web technologies and native capabilities to craft applications that seamlessly run across platforms, delivering a unified and immersive user experience on the desktop"
   },
 
   "flutter": {
     "title": "FLUTTER(DART)",
-    "description": "The existing of Flutter is a blessing to the world of mobile app development. It is used to create cross-platform mobile applications and can also be used for web applications and cross-platform desktop applications development but, in my projects, I focus only on mobile applications development."
+    "description": "The existing of Flutter is a blessing to the world of mobile app development. It is used to create cross-platform mobile apps and can also be used for the development of web apps and cross-platform desktop apps but, in my projects, I focus only on mobile apps."
   }
 }
