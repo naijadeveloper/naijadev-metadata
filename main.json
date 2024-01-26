@@ -11,7 +11,7 @@
 
   "javascript-games": {
     "title": "JAVASCRIPT GAMES AS PROGRESSIVE WEB APPS",
-    "description": "In these projects, I explore the versatility of Javascript. I create interactive, entertaining games that run smooth on your web browser, and extend them as progressive web applications, possibly blurring the lines between web and native gaming experience."
+    "description": "In these projects, I explore the versatility of Javascript. I create interactive, entertaining games that run smooth on your web browser, and extend them as progressive web applications."
   },
 
   "react": {
@@ -36,6 +36,6 @@
 
   "flutter": {
     "title": "FLUTTER(DART)",
-    "description": "The existing of Flutter is a blessing to the world of mobile app development. It is used to create cross-platform mobile applications. Using Flutter widgets, one can create beautiful, expressive user interfaces that translate well for all mobile devices. Flutter can be used to create web applications and cross-platform desktop applications as well, but in my projects, I focus only on mobile app development."
+    "description": "The existing of Flutter is a blessing to the world of mobile app development. It is used to create cross-platform mobile applications. Using Flutter widgets, one can create beautiful, expressive user interfaces that translate well for all mobile devices. Flutter can also be used to create web applications and cross-platform desktop applications as well, but in my projects, I focus only on mobile app development."
   }
 }
