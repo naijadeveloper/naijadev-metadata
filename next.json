@@ -1,0 +1,10 @@
+[
+  {
+    "name": "My Portfolio Website",
+    "description": "",
+    "tools": ["Next Js", "Contentful", "React Query", "Shadcn", "Tailwindcss"],
+    "web": "https://google.com",
+    "github": "https://github.com",
+    "label": "Personal"
+  }
+]
